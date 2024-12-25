@@ -1,0 +1,1 @@
+cmd_/home/liu/rockchip/kernel/Drivers/2_chrdev_autodrv/hello_drv.ko := aarch64-linux-gnu-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/liu/rockchip/kernel/Drivers/2_chrdev_autodrv/hello_drv.ko /home/liu/rockchip/kernel/Drivers/2_chrdev_autodrv/hello_drv.o /home/liu/rockchip/kernel/Drivers/2_chrdev_autodrv/hello_drv.mod.o

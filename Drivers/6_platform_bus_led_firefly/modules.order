@@ -1,0 +1,3 @@
+kernel//home/liu/rockchip/kernel/Drivers/6_platform_bus_led_firefly/led_firefly.ko
+kernel//home/liu/rockchip/kernel/Drivers/6_platform_bus_led_firefly/chip_firefly.ko
+kernel//home/liu/rockchip/kernel/Drivers/6_platform_bus_led_firefly/board_rk3399_led.ko

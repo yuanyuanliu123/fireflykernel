@@ -1,0 +1,2 @@
+/home/liu/rockchip/kernel/Drivers/14_key_timer/key_interrupt.ko
+/home/liu/rockchip/kernel/Drivers/14_key_timer/key_interrupt.o

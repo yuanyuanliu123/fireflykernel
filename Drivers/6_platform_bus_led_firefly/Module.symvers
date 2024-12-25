@@ -1,0 +1,3 @@
+0x00000000	led_class_create_device	/home/liu/rockchip/kernel/Drivers/6_platform_bus_led_firefly/led_firefly	EXPORT_SYMBOL
+0x00000000	led_class_destroy_device	/home/liu/rockchip/kernel/Drivers/6_platform_bus_led_firefly/led_firefly	EXPORT_SYMBOL
+0x00000000	register_led_operations	/home/liu/rockchip/kernel/Drivers/6_platform_bus_led_firefly/led_firefly	EXPORT_SYMBOL
