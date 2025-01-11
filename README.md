@@ -11,3 +11,9 @@ git操作：
  	git push origin camera_kernel_base
 	查看分支：
 	git branch
+	add之前查看修改内容
+	git diff
+	丢弃修改过得某个文件
+	git checkout -- README.md
+	查看所有修改过得历史记录
+	git log -p
