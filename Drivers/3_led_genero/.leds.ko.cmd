@@ -1,0 +1,1 @@
+cmd_/home/liu/rockchip/kernel/Drivers/3_led_genero/leds.ko := aarch64-linux-gnu-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/liu/rockchip/kernel/Drivers/3_led_genero/leds.ko /home/liu/rockchip/kernel/Drivers/3_led_genero/leds.o /home/liu/rockchip/kernel/Drivers/3_led_genero/leds.mod.o

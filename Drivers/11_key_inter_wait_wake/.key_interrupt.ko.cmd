@@ -1,0 +1,1 @@
+cmd_/home/liu/rockchip/kernel/Drivers/11_key_inter_wait_wake/key_interrupt.ko := aarch64-linux-gnu-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/liu/rockchip/kernel/Drivers/11_key_inter_wait_wake/key_interrupt.ko /home/liu/rockchip/kernel/Drivers/11_key_inter_wait_wake/key_interrupt.o /home/liu/rockchip/kernel/Drivers/11_key_inter_wait_wake/key_interrupt.mod.o

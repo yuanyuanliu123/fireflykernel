@@ -1,0 +1,1 @@
+cmd_/home/liu/rockchip/kernel/Drivers/5_double_led_firefly/leds_firefly.ko := aarch64-linux-gnu-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/liu/rockchip/kernel/Drivers/5_double_led_firefly/leds_firefly.ko /home/liu/rockchip/kernel/Drivers/5_double_led_firefly/leds_firefly.o /home/liu/rockchip/kernel/Drivers/5_double_led_firefly/leds_firefly.mod.o
