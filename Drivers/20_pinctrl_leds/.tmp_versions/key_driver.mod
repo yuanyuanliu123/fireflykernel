@@ -1,0 +1,2 @@
+/home/liu/rockchip/kernel/code/fireflykernel/Drivers/20_pinctrl_leds/key_driver.ko
+/home/liu/rockchip/kernel/code/fireflykernel/Drivers/20_pinctrl_leds/key_driver.o
