@@ -1,0 +1,2 @@
+/home/liu/rockchip/kernel/Drivers/12_key_poll/key_interrupt.ko
+/home/liu/rockchip/kernel/Drivers/12_key_poll/key_interrupt.o

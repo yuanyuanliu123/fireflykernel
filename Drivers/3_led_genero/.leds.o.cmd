@@ -1,0 +1,1 @@
+cmd_/home/liu/rockchip/kernel/Drivers/3_led_genero/leds.o := aarch64-linux-gnu-ld -EL    -r -o /home/liu/rockchip/kernel/Drivers/3_led_genero/leds.o /home/liu/rockchip/kernel/Drivers/3_led_genero/led.o /home/liu/rockchip/kernel/Drivers/3_led_genero/board_demo.o 
